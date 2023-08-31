@@ -34,6 +34,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "{{ shop.brand.cover_image }}",
         "image_overlay_opacity": 40,
@@ -106,6 +107,7 @@
         "template--19371593793814__f1b876f1-0a44-47e5-be9a-bc1ad79274bf-1687221038b895e2cf-1",
         "template--19371593793814__f1b876f1-0a44-47e5-be9a-bc1ad79274bf-1687221038b895e2cf-2"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",

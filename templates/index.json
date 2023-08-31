@@ -58,7 +58,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "recomendaciones",
-        "products_to_show": 8,
+        "products_to_show": 14,
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
@@ -124,6 +124,7 @@
     },
     "8bf0f33d-268b-4cc9-b750-d48fb965fe3c": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Recomendaciones",
         "heading_size": "h2",

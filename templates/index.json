@@ -1,52 +1,58 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "41fa1594-5079-4867-8335-899a0728bf55": {
+      "type": "slideshow",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "template--19371593793814__41fa1594-5079-4867-8335-899a0728bf55-slide-1": {
+          "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/292268924_5496900800330271_8684149379601851075_n.jpg",
             "heading": "<strong>Back to School<\/strong>",
-            "heading_size": "h0"
+            "heading_size": "h0",
+            "subheading": "Prepárate con audifonos, pendrives y cargadores portátiles para regresar a clases.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 10,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "left"
           }
         },
-        "text": {
-          "type": "text",
+        "template--19371593793814__41fa1594-5079-4867-8335-899a0728bf55-slide-2": {
+          "type": "slide",
           "settings": {
-            "text": "Equipate con audifonos, pendrives, y cargadores portatiles para volver a clases.",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop now",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "image": "shopify:\/\/shop_images\/home-top.jpg",
+            "heading": "<strong>NUEVO: Kit Hatamugi<\/strong>",
+            "heading_size": "h1",
+            "subheading": "Descubre el poder del kit Hatamugi  ハトムギ y rejuvenece tu piel de manera profesional.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "right"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "template--19371593793814__41fa1594-5079-4867-8335-899a0728bf55-slide-1",
+        "template--19371593793814__41fa1594-5079-4867-8335-899a0728bf55-slide-2"
       ],
       "settings": {
-        "image": "{{ shop.brand.cover_image }}",
-        "image_2": "shopify:\/\/shop_images\/292268924_5496900800330271_8684149379601851075_n.jpg",
-        "image_overlay_opacity": 10,
-        "image_height": "small",
-        "desktop_content_position": "bottom-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "inverse",
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
         "image_behavior": "ambient",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "custom_search": {
@@ -86,7 +92,7 @@
     }
   },
   "order": [
-    "image_banner",
+    "41fa1594-5079-4867-8335-899a0728bf55",
     "custom_search",
     "featured_collection"
   ]

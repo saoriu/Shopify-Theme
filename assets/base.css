@@ -2689,6 +2689,43 @@ details[open] > .header__submenu {
   padding: 0 1rem;
 }
 
+/* Desktop */
+.header__search details[open] > div.modal__content, 
+.header__search > details > div.modal__content {
+    display: block;
+    position: static;
+}
+
+.header__search .modal__toggle-open, 
+.header__search .modal__toggle-close {
+    display: none;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .header__search details > div.modal__content {
+        display: none;
+        position: absolute; 
+    }
+
+    .header__search .modal__toggle-open {
+        display: inline-block;
+    }
+
+    .header__search[open] .modal__toggle-open {
+        display: none;
+    }
+
+    .header__search[open] .modal__toggle-close {
+        display: inline-block;
+    }
+
+    .header__search[open] details > div.modal__content {
+        display: block;
+    }
+}
+
+
 .header__menu-item {
   padding: 0 1.5rem;
   font-weight: bold;

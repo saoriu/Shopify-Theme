@@ -2704,7 +2704,7 @@ details[open] > .header__submenu {
       display: block;
   }
 
-  .desktop-search .customer select {
+  .desktop-search .field__input  {
     min-width: calc(50rem + (var(--inputs-border-width) * 2));
   }
 

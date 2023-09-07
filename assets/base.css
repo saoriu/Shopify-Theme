@@ -2699,7 +2699,7 @@ details[open] > .header__submenu {
 }
 
 /* Using 768px as the breakpoint for this example. Adjust as needed. */
-@media (min-width: 768px) {
+@media (min-width: 989px) {
   .desktop-search {
       display: block;
   }

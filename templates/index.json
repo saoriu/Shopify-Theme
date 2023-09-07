@@ -1,5 +1,14 @@
 {
   "sections": {
+    "custom_search": {
+      "type": "custom-search",
+      "settings": {
+        "type": "checkbox",
+        "id": "predictive_search_enabled",
+        "label": "Enable Predictive Search",
+        "default": true
+      }
+    },   
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -153,6 +162,7 @@
     }
   },
   "order": [
+    "custom_search",
     "image_banner",
     "featured_collection",
     "f1b876f1-0a44-47e5-be9a-bc1ad79274bf",

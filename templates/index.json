@@ -3,12 +3,9 @@
     "custom_search": {
       "type": "custom-search",
       "settings": {
-        "type": "checkbox",
-        "id": "predictive_search_enabled",
-        "label": "Enable Predictive Search",
-        "default": true
+        "predictive_search_enabled": true
       }
-    },   
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -70,7 +67,7 @@
         "products_to_show": 14,
         "columns_desktop": 4,
         "full_width": true,
-        "show_view_all": true,
+        "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",

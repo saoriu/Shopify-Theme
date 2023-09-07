@@ -57,6 +57,7 @@
     },
     "custom_search": {
       "type": "custom-search",
+      "disabled": true,
       "settings": {
         "top_margin": 20,
         "bottom_margin": 20

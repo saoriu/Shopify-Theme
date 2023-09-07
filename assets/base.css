@@ -2752,6 +2752,11 @@ details[open] > .header__menu-item .icon-caret {
   padding: 2.4rem 0;
 }
 
+.header__inline-menu .list-menu--inline > li:nth-child(5) {
+  border-right: 1px solid black; /* Replace #yourDesiredColor with your preferred color */
+}
+
+
 .header__submenu .header__submenu {
   background-color: rgba(var(--color-foreground), 0.03);
   padding: 0.5rem 0;

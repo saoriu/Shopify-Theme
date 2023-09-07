@@ -2895,6 +2895,9 @@ details-disclosure > details {
   .content-container--full-width-mobile:after {
     display: none;
   }
+  .utility-bar {
+    display: none;
+  }
 }
 
 .global-media-settings {

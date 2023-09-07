@@ -2753,7 +2753,7 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__inline-menu .list-menu--inline > li:nth-child(5) {
-  border-right: 1px solid black; /* Replace #yourDesiredColor with your preferred color */
+  border-right: 1px solid #c2c2c2; /* Replace #yourDesiredColor with your preferred color */
 }
 
 

@@ -2697,40 +2697,6 @@ details[open] > .header__submenu {
   color: rgba(var(--color-foreground), 0.75);
 }
 
-/* By default (for desktop), show the search bar and hide the toggle icons */
-.header__search .search-modal__form {
-  display: block;
-}
-
-.header__icon--search .modal__toggle-open,
-.header__icon--search .modal__toggle-close {
-  display: none;
-}
-
-/* For mobile devices, hide the exposed search bar and show the toggle icons */
-@media (max-width: 768px) { /* This breakpoint can be adjusted based on your theme's breakpoints */
-  .header__search .search-modal__form {
-      display: none;
-  }
-  
-  .header__icon--search .modal__toggle-open {
-      display: inline-block;
-  }
-  
-  .header__search[open] .search-modal__form {
-      display: block;
-  }
-  
-  .header__search[open] .modal__toggle-open {
-      display: none;
-  }
-  
-  .header__search[open] .modal__toggle-close {
-      display: inline-block;
-  }
-}
-
-
 .header__menu-item:hover {
   color: rgb(var(--color-foreground));
 }

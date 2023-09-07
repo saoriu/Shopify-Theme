@@ -1583,7 +1583,7 @@ details[open] > .share-button__fallback {
   border-radius: var(--inputs-radius);
   height: 4.5rem;
   min-height: calc(var(--inputs-border-width) * 2);
-  min-width: calc(50rem + (var(--inputs-border-width) * 2));
+  min-width: calc(7rem + (var(--inputs-border-width) * 2));
   position: relative;
   border: 0;
 }
@@ -2698,10 +2698,14 @@ details[open] > .header__submenu {
   display: block;
 }
 
-/* Using 768px as the breakpoint for this example. Adjust as needed. */
+/* Using 990px as the breakpoint for this example. Adjust as needed. */
 @media (min-width: 990px) {
   .desktop-search {
       display: block;
+  }
+
+  .desktop-search .customer select {
+    min-width: calc(50rem + (var(--inputs-border-width) * 2));
   }
 
   .mobile-search {

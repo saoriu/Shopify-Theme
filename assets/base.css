@@ -2659,6 +2659,7 @@ details[open] > .header__submenu {
 .header__inline-menu {
   grid-area: navigation;
   display: none;
+  
 }
 
 .header--top-center .header__inline-menu,

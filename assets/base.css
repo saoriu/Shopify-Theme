@@ -2659,7 +2659,7 @@ details[open] > .header__submenu {
 .header__inline-menu {
   grid-area: navigation;
   display: none;
-  
+
 }
 
 .header--top-center .header__inline-menu,
@@ -2778,9 +2778,6 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__inline-menu .list-menu--inline > li {
-  border: 1px solid #c2c2c2;
-  border-radius: 10px;
-  padding: 2px 5px;
 }
 
 

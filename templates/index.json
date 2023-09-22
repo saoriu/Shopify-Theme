@@ -55,28 +55,60 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "custom_search": {
-      "type": "custom-search",
-      "disabled": true,
+    "4104e7c2-ff71-4355-b81b-f966b80b3d7b": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "audifonos"
+          }
+        },
+        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "baterias"
+          }
+        },
+        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gaming"
+          }
+        }
+      },
+      "block_order": [
+        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-1",
+        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-2",
+        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-3"
+      ],
       "settings": {
-        "top_margin": 20,
-        "bottom_margin": 20
+        "title": "<strong>Colecciónes<\/strong>",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Recomendaciones<\/strong>",
+        "title": "<strong>Audifonos<\/strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "recomendaciones",
-        "products_to_show": 14,
+        "collection": "audifonos",
+        "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "link",
+        "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "square",
@@ -90,11 +122,20 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
+    },
+    "custom_search": {
+      "type": "custom-search",
+      "disabled": true,
+      "settings": {
+        "top_margin": 20,
+        "bottom_margin": 20
+      }
     }
   },
   "order": [
     "41fa1594-5079-4867-8335-899a0728bf55",
-    "custom_search",
-    "featured_collection"
+    "4104e7c2-ff71-4355-b81b-f966b80b3d7b",
+    "featured_collection",
+    "custom_search"
   ]
 }

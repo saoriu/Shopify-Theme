@@ -20,29 +20,10 @@
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
           }
-        },
-        "template--19371593793814__41fa1594-5079-4867-8335-899a0728bf55-slide-2": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/home-top.jpg",
-            "heading": "<strong>NUEVO: Kit Hatamugi<\/strong>",
-            "heading_size": "h1",
-            "subheading": "Descubre el poder del kit Hatamugi  ハトムギ y rejuvenece tu piel de manera profesional.",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-right",
-            "show_text_box": false,
-            "text_alignment": "right",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "right"
-          }
         }
       },
       "block_order": [
-        "template--19371593793814__41fa1594-5079-4867-8335-899a0728bf55-slide-1",
-        "template--19371593793814__41fa1594-5079-4867-8335-899a0728bf55-slide-2"
+        "template--19371593793814__41fa1594-5079-4867-8335-899a0728bf55-slide-1"
       ],
       "settings": {
         "layout": "full_bleed",

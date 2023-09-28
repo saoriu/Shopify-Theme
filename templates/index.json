@@ -3,24 +3,6 @@
     "41fa1594-5079-4867-8335-899a0728bf55": {
       "type": "slideshow",
       "blocks": {
-        "template--19371593793814__41fa1594-5079-4867-8335-899a0728bf55-slide-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/292268924_5496900800330271_8684149379601851075_n.jpg",
-            "heading": "<strong>Back to School<\/strong>",
-            "heading_size": "h0",
-            "subheading": "Prepárate con audifonos, pendrives y cargadores portátiles para regresar a clases.",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 10,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "left"
-          }
-        },
         "eea084d9-b3f2-48dd-965b-4f437904ffae": {
           "type": "slide",
           "settings": {
@@ -38,11 +20,29 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "a640222c-5ee6-4ecd-aff7-a18dcaf125df": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/319980123_688879665970840_1931430274268961343_n.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "template--19371593793814__41fa1594-5079-4867-8335-899a0728bf55-slide-1",
-        "eea084d9-b3f2-48dd-965b-4f437904ffae"
+        "eea084d9-b3f2-48dd-965b-4f437904ffae",
+        "a640222c-5ee6-4ecd-aff7-a18dcaf125df"
       ],
       "settings": {
         "layout": "full_bleed",

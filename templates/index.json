@@ -3,35 +3,16 @@
     "41fa1594-5079-4867-8335-899a0728bf55": {
       "type": "slideshow",
       "blocks": {
-        "eea084d9-b3f2-48dd-965b-4f437904ffae": {
+        "8937e35a-d08e-45ee-a108-e08f85a6546e": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/361140609_261925266542221_878040817896285407_n.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "Compra aca!",
-            "button_label": "",
-            "link": "shopify:\/\/products\/parlante-portatil-maxell-distrikt-tws-7-horas",
-            "button_style_secondary": false,
-            "box_align": "bottom-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "a640222c-5ee6-4ecd-aff7-a18dcaf125df": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/319980123_688879665970840_1931430274268961343_n.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "bottom-right",
+            "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
@@ -41,8 +22,7 @@
         }
       },
       "block_order": [
-        "eea084d9-b3f2-48dd-965b-4f437904ffae",
-        "a640222c-5ee6-4ecd-aff7-a18dcaf125df"
+        "8937e35a-d08e-45ee-a108-e08f85a6546e"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -58,34 +38,41 @@
     "4104e7c2-ff71-4355-b81b-f966b80b3d7b": {
       "type": "collection-list",
       "blocks": {
-        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-1": {
+        "15b50cf7-3f2b-4de2-8897-b8519d9e8637": {
           "type": "featured_collection",
           "settings": {
-            "collection": "audifonos"
+            "collection": "maxell"
           }
         },
-        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-2": {
+        "e3e0f826-17d6-468e-b9fc-68c6ec93e6dc": {
           "type": "featured_collection",
           "settings": {
-            "collection": "baterias"
+            "collection": "havit"
           }
         },
-        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-3": {
+        "8f659898-95e1-4582-b51f-34dc64d04927": {
           "type": "featured_collection",
           "settings": {
-            "collection": "gaming"
+            "collection": "samsung"
+          }
+        },
+        "44d4ff4e-966e-40c6-8251-cc51ebced0be": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "uni-posca"
           }
         }
       },
       "block_order": [
-        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-1",
-        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-2",
-        "template--19371593793814__4104e7c2-ff71-4355-b81b-f966b80b3d7b-featured_collection-3"
+        "15b50cf7-3f2b-4de2-8897-b8519d9e8637",
+        "e3e0f826-17d6-468e-b9fc-68c6ec93e6dc",
+        "8f659898-95e1-4582-b51f-34dc64d04927",
+        "44d4ff4e-966e-40c6-8251-cc51ebced0be"
       ],
       "settings": {
-        "title": "<strong>Colecciónes<\/strong>",
-        "heading_size": "h2",
-        "image_ratio": "square",
+        "title": "<strong>Marcas<\/strong>",
+        "heading_size": "h0",
+        "image_ratio": "adapt",
         "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": false,
@@ -98,12 +85,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "<strong>Audifonos<\/strong>",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "audifonos",
+        "collection": "bocinas",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,

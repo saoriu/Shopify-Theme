@@ -77,8 +77,8 @@
       ],
       "settings": {
         "title": "<strong>Marcas<\/strong>",
-        "heading_size": "h0",
-        "image_ratio": "adapt",
+        "heading_size": "h2",
+        "image_ratio": "square",
         "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
@@ -90,7 +90,6 @@
     },
     "custom_search": {
       "type": "custom-search",
-      "disabled": true,
       "settings": {
         "top_margin": 20,
         "bottom_margin": 20

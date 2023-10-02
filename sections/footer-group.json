@@ -11,10 +11,18 @@
             "heading": "<strong>Nosotros<\/strong>",
             "subtext": "<p>Importadora Maxchile Ltda es una compañía Chilena, Distribuidora de productos Electrónicos, Audio, Video, Accesorios computacionales, Tecnología, entre otros productos.<\/p>"
           }
+        },
+        "8500d433-81d0-46c2-92e8-a0f71cce1dd0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>Información<\/strong>",
+            "menu": "footer"
+          }
         }
       },
       "block_order": [
-        "cbb6d662-cd86-4758-b0ae-3a32242968bd"
+        "cbb6d662-cd86-4758-b0ae-3a32242968bd",
+        "8500d433-81d0-46c2-92e8-a0f71cce1dd0"
       ],
       "settings": {
         "color_scheme": "background-1",

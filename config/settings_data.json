@@ -211,8 +211,8 @@
           "background": "#ffffff",
           "background_gradient": "",
           "text": "#121212",
-          "button": "#ffffff",
-          "button_label": "rgba(0,0,0,0)",
+          "button": "rgba(0,0,0,0)",
+          "button_label": "#ffffff",
           "secondary_button_label": "#fff",
           "shadow": "#121212"
         }

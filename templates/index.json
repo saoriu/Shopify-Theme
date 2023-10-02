@@ -20,10 +20,29 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "cab239cc-3caf-4afc-abb6-0dba5e829f61": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-Shopify-_-_-04-scaled.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "VER TODO HAVIT",
+            "link": "shopify:\/\/collections\/havit",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "d69ad174-f7c6-4dee-ade5-9d1b2ac10046"
+        "d69ad174-f7c6-4dee-ade5-9d1b2ac10046",
+        "cab239cc-3caf-4afc-abb6-0dba5e829f61"
       ],
       "settings": {
         "layout": "full_bleed",

@@ -1,7 +1,7 @@
 {
   "current": {
     "logo": "shopify:\/\/shop_images\/maxify-sakura-01.png",
-    "logo_width": 190,
+    "logo_width": 300,
     "favicon": "shopify:\/\/shop_images\/maxify-sakura-FAVICON_41cb92ad-47cd-410e-8bcc-a66d3590a5b4.png",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
@@ -208,10 +208,10 @@
     "color_schemes": {
       "background-1": {
         "settings": {
-          "background": "#fff",
+          "background": "#ffffff",
           "background_gradient": "",
           "text": "#121212",
-          "button": "#fff",
+          "button": "#ffffff",
           "button_label": "rgba(0,0,0,0)",
           "secondary_button_label": "#121212",
           "shadow": "#121212"

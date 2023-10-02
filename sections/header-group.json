@@ -22,13 +22,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Envíos gratís sobre $20.000 a todo el pais",
-            "link": ""
-          }
-        },
         "7b02a010-8007-4913-a51f-5ecdff96a7d7": {
           "type": "announcement",
           "settings": {
@@ -45,7 +38,6 @@
         }
       },
       "block_order": [
-        "announcement-bar-0",
         "7b02a010-8007-4913-a51f-5ecdff96a7d7",
         "793e35d9-8790-449a-89da-688a93b89bec"
       ],

@@ -208,9 +208,9 @@
     "color_schemes": {
       "background-1": {
         "settings": {
-          "background": "#ff0000",
+          "background": "#ffffff",
           "background_gradient": "",
-          "text": "#fff",
+          "text": "#121212",
           "button": "#ffffff",
           "button_label": "rgba(0,0,0,0)",
           "secondary_button_label": "#fff",

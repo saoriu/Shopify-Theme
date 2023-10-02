@@ -39,24 +39,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "2fc0d044-7f3f-41e1-925e-8223bc1c9f58": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/06152021_galaxy_STORY_LEVEL_BANNER_1600x483_6efc70e6-c928-40f5-97c3-ab93f90daf9b.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "VER TODO SAMSUNG",
-            "link": "shopify:\/\/collections\/samsung",
-            "button_style_secondary": false,
-            "box_align": "bottom-right",
-            "show_text_box": false,
-            "text_alignment": "right",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "f18d051f-df58-4dc6-a427-5940f6e3d6f8": {
           "type": "slide",
           "settings": {
@@ -74,13 +56,31 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "2fc0d044-7f3f-41e1-925e-8223bc1c9f58": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tab-a7-lite-banner.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "VER TODO SAMSUNG",
+            "link": "shopify:\/\/collections\/samsung",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "d69ad174-f7c6-4dee-ade5-9d1b2ac10046",
         "cab239cc-3caf-4afc-abb6-0dba5e829f61",
-        "2fc0d044-7f3f-41e1-925e-8223bc1c9f58",
-        "f18d051f-df58-4dc6-a427-5940f6e3d6f8"
+        "f18d051f-df58-4dc6-a427-5940f6e3d6f8",
+        "2fc0d044-7f3f-41e1-925e-8223bc1c9f58"
       ],
       "settings": {
         "layout": "full_bleed",

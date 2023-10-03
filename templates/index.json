@@ -149,6 +149,130 @@
         "padding_bottom": 36
       }
     },
+    "406a66dd-2909-48b1-a5c6-acb09fce4a95": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19371593793814__406a66dd-2909-48b1-a5c6-acb09fce4a95-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accesorios"
+          }
+        },
+        "template--19371593793814__406a66dd-2909-48b1-a5c6-acb09fce4a95-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "almacenamiento"
+          }
+        },
+        "template--19371593793814__406a66dd-2909-48b1-a5c6-acb09fce4a95-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "audifonos"
+          }
+        },
+        "6a04dbcf-7cc3-449b-a859-986a79ea28d1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bocinas"
+          }
+        },
+        "b80f3bc5-d681-4b57-abd1-b0993b5cd258": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cables"
+          }
+        },
+        "ae848bc8-9da8-4faa-916e-2375b2a12a9b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cargadores"
+          }
+        },
+        "bbc8d550-2971-46f2-95c9-c1feb1478622": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "computadoras"
+          }
+        },
+        "7ff971d6-c968-41b9-b2cc-9b6055122284": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "energia"
+          }
+        },
+        "ec10471a-94fa-4482-96a7-57b250eeb7d1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gaming"
+          }
+        },
+        "8269083f-054d-4cf6-aab7-2e48974346b3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lentes"
+          }
+        },
+        "663066b3-1b22-42ab-a34f-bdb77506210b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "memorias"
+          }
+        },
+        "9e877726-c510-443b-83b5-e3ed64ceb52c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "monitores"
+          }
+        },
+        "e82152ea-c4bb-44cd-81b6-5ff9229ebb18": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "notebook"
+          }
+        },
+        "97edbdf3-6b05-435a-a0c0-d946922ffa53": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "proyector"
+          }
+        },
+        "57ce654e-33bd-4a09-8a57-af5f6befd742": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "smart"
+          }
+        }
+      },
+      "block_order": [
+        "template--19371593793814__406a66dd-2909-48b1-a5c6-acb09fce4a95-featured_collection-1",
+        "template--19371593793814__406a66dd-2909-48b1-a5c6-acb09fce4a95-featured_collection-2",
+        "template--19371593793814__406a66dd-2909-48b1-a5c6-acb09fce4a95-featured_collection-3",
+        "6a04dbcf-7cc3-449b-a859-986a79ea28d1",
+        "b80f3bc5-d681-4b57-abd1-b0993b5cd258",
+        "ae848bc8-9da8-4faa-916e-2375b2a12a9b",
+        "bbc8d550-2971-46f2-95c9-c1feb1478622",
+        "7ff971d6-c968-41b9-b2cc-9b6055122284",
+        "ec10471a-94fa-4482-96a7-57b250eeb7d1",
+        "8269083f-054d-4cf6-aab7-2e48974346b3",
+        "663066b3-1b22-42ab-a34f-bdb77506210b",
+        "9e877726-c510-443b-83b5-e3ed64ceb52c",
+        "e82152ea-c4bb-44cd-81b6-5ff9229ebb18",
+        "97edbdf3-6b05-435a-a0c0-d946922ffa53",
+        "57ce654e-33bd-4a09-8a57-af5f6befd742"
+      ],
+      "settings": {
+        "title": "Categorías",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "4104e7c2-ff71-4355-b81b-f966b80b3d7b": {
       "type": "collection-list",
       "blocks": {
@@ -209,6 +333,7 @@
     "41fa1594-5079-4867-8335-899a0728bf55",
     "featured_collection",
     "560845a8-8752-401d-9944-c0af24f6546e",
+    "406a66dd-2909-48b1-a5c6-acb09fce4a95",
     "4104e7c2-ff71-4355-b81b-f966b80b3d7b",
     "custom_search"
   ]

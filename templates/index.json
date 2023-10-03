@@ -130,12 +130,6 @@
           "settings": {
             "show_dynamic_checkout": true
           }
-        },
-        "template--19371593793814__21a8265c-f4fc-43b5-8981-8fe2bf8f4d03-share-1": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -144,8 +138,7 @@
         "template--19371593793814__21a8265c-f4fc-43b5-8981-8fe2bf8f4d03-price-1",
         "template--19371593793814__21a8265c-f4fc-43b5-8981-8fe2bf8f4d03-variant_picker-1",
         "template--19371593793814__21a8265c-f4fc-43b5-8981-8fe2bf8f4d03-quantity_selector-1",
-        "template--19371593793814__21a8265c-f4fc-43b5-8981-8fe2bf8f4d03-buy_buttons-1",
-        "template--19371593793814__21a8265c-f4fc-43b5-8981-8fe2bf8f4d03-share-1"
+        "template--19371593793814__21a8265c-f4fc-43b5-8981-8fe2bf8f4d03-buy_buttons-1"
       ],
       "settings": {
         "product": "audifonos-maxell-tws-bluetooth-dynamic-blanco",

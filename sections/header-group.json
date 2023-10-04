@@ -35,11 +35,19 @@
             "text": "Compra con seguridad: 6 Meses de garantía legal",
             "link": "shopify:\/\/pages\/condiciones-de-despacho"
           }
+        },
+        "4d17b4d1-a7b0-4cf0-874e-c539548ec2b7": {
+          "type": "announcement",
+          "settings": {
+            "text": "Envíos por Chilexpress",
+            "link": "shopify:\/\/pages\/envios"
+          }
         }
       },
       "block_order": [
         "7b02a010-8007-4913-a51f-5ecdff96a7d7",
-        "793e35d9-8790-449a-89da-688a93b89bec"
+        "793e35d9-8790-449a-89da-688a93b89bec",
+        "4d17b4d1-a7b0-4cf0-874e-c539548ec2b7"
       ],
       "custom_css": [
 

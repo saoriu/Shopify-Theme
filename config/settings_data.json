@@ -208,11 +208,11 @@
     "color_schemes": {
       "background-1": {
         "settings": {
-          "background": "#fff",
+          "background": "#f3f3f3",
           "background_gradient": "",
           "text": "#000000",
           "button": "rgba(0,0,0,0)",
-          "button_label": "#fff",
+          "button_label": "#ffffff",
           "secondary_button_label": "#000000",
           "shadow": "#75b017"
         }

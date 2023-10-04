@@ -96,7 +96,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Parlantes",
+        "title": "<strong>Parlantes<\/strong>",
         "heading_size": "h2",
         "description": "<p>Lleva la música a todos lados con nuestros parlantes portátiles.<\/p>",
         "show_description": false,

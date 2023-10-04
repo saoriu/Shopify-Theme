@@ -221,11 +221,12 @@
         "template--19371593793814__3214f90a-e8fb-440b-aaab-34bf5a0de09d-row-2": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/S22A330_001_Front_Black_41ed83a0-7bf2-4bb5-8193-f018d5435d5c.png",
+            "caption": "monitor Samsung 24 A336",
+            "heading": "Experimenta la claridad y nitidez de imagen de los monitores Samsung 24 A336.",
+            "text": "<p>Optimiza tu trabajo con los monitores Samsung líderes en el mercado.<\/p>",
+            "button_label": "VER MONITORES",
+            "button_link": "shopify:\/\/collections\/monitores"
           }
         },
         "template--19371593793814__3214f90a-e8fb-440b-aaab-34bf5a0de09d-row-3": {

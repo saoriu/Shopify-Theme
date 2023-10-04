@@ -184,12 +184,24 @@
             "button_label": "VER PROYECTOR",
             "button_link": "shopify:\/\/collections\/proyector"
           }
+        },
+        "6e498ff0-9f89-4d35-85d7-8a8fed2f2483": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PC-5M_7C_PASTEL_71Zwbjf6W6L._AC_SX466.jpg",
+            "caption": "MARCADORES POSCA 5M7 PASTEL",
+            "heading": "Expresa tu creatividad con los marcadores POSCA de colores vibrantes.",
+            "text": "<p>Descubre la magia de los marcadores Posca.<\/p>",
+            "button_label": "VER TODO POSCA",
+            "button_link": "shopify:\/\/collections\/uni-posca"
+          }
         }
       },
       "block_order": [
         "template--19371593793814__3214f90a-e8fb-440b-aaab-34bf5a0de09d-row-1",
         "template--19371593793814__3214f90a-e8fb-440b-aaab-34bf5a0de09d-row-2",
-        "template--19371593793814__3214f90a-e8fb-440b-aaab-34bf5a0de09d-row-3"
+        "template--19371593793814__3214f90a-e8fb-440b-aaab-34bf5a0de09d-row-3",
+        "6e498ff0-9f89-4d35-85d7-8a8fed2f2483"
       ],
       "settings": {
         "image_height": "medium",

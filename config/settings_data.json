@@ -211,10 +211,10 @@
           "background": "#fff",
           "background_gradient": "",
           "text": "#000000",
-          "button": "#000000",
+          "button": "rgba(0,0,0,0)",
           "button_label": "#fff",
           "secondary_button_label": "#000000",
-          "shadow": "#75b017"
+          "shadow": "rgba(0,0,0,0)"
         }
       },
       "background-2": {

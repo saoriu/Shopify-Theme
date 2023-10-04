@@ -149,61 +149,6 @@
         "padding_bottom": 36
       }
     },
-    "4104e7c2-ff71-4355-b81b-f966b80b3d7b": {
-      "type": "collection-list",
-      "blocks": {
-        "15b50cf7-3f2b-4de2-8897-b8519d9e8637": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "maxell"
-          }
-        },
-        "e3e0f826-17d6-468e-b9fc-68c6ec93e6dc": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "havit"
-          }
-        },
-        "8f659898-95e1-4582-b51f-34dc64d04927": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "samsung"
-          }
-        },
-        "44d4ff4e-966e-40c6-8251-cc51ebced0be": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "uni-posca"
-          }
-        }
-      },
-      "block_order": [
-        "15b50cf7-3f2b-4de2-8897-b8519d9e8637",
-        "e3e0f826-17d6-468e-b9fc-68c6ec93e6dc",
-        "8f659898-95e1-4582-b51f-34dc64d04927",
-        "44d4ff4e-966e-40c6-8251-cc51ebced0be"
-      ],
-      "settings": {
-        "title": "<strong>Marcas<\/strong>",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "custom_search": {
-      "type": "custom-search",
-      "disabled": true,
-      "settings": {
-        "top_margin": 20,
-        "bottom_margin": 20
-      }
-    },
     "3214f90a-e8fb-440b-aaab-34bf5a0de09d": {
       "type": "multirow",
       "blocks": {
@@ -261,14 +206,69 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "4104e7c2-ff71-4355-b81b-f966b80b3d7b": {
+      "type": "collection-list",
+      "blocks": {
+        "15b50cf7-3f2b-4de2-8897-b8519d9e8637": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "maxell"
+          }
+        },
+        "e3e0f826-17d6-468e-b9fc-68c6ec93e6dc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "havit"
+          }
+        },
+        "8f659898-95e1-4582-b51f-34dc64d04927": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "samsung"
+          }
+        },
+        "44d4ff4e-966e-40c6-8251-cc51ebced0be": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "uni-posca"
+          }
+        }
+      },
+      "block_order": [
+        "15b50cf7-3f2b-4de2-8897-b8519d9e8637",
+        "e3e0f826-17d6-468e-b9fc-68c6ec93e6dc",
+        "8f659898-95e1-4582-b51f-34dc64d04927",
+        "44d4ff4e-966e-40c6-8251-cc51ebced0be"
+      ],
+      "settings": {
+        "title": "<strong>Marcas<\/strong>",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_search": {
+      "type": "custom-search",
+      "disabled": true,
+      "settings": {
+        "top_margin": 20,
+        "bottom_margin": 20
+      }
     }
   },
   "order": [
     "41fa1594-5079-4867-8335-899a0728bf55",
     "featured_collection",
     "560845a8-8752-401d-9944-c0af24f6546e",
+    "3214f90a-e8fb-440b-aaab-34bf5a0de09d",
     "4104e7c2-ff71-4355-b81b-f966b80b3d7b",
-    "custom_search",
-    "3214f90a-e8fb-440b-aaab-34bf5a0de09d"
+    "custom_search"
   ]
 }

@@ -169,6 +169,10 @@
   margin: 1.3rem;
 }
 
+.image-with-text__media img {
+  object-fit: contain;
+}
+
 .card__media .media img {
   height: 100%;
   object-fit: contain;

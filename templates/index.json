@@ -245,13 +245,20 @@
           "settings": {
             "collection": "uni-posca"
           }
+        },
+        "7203872b-ecce-4521-9ea9-dc420f39cb1e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hp"
+          }
         }
       },
       "block_order": [
         "15b50cf7-3f2b-4de2-8897-b8519d9e8637",
         "e3e0f826-17d6-468e-b9fc-68c6ec93e6dc",
         "8f659898-95e1-4582-b51f-34dc64d04927",
-        "44d4ff4e-966e-40c6-8251-cc51ebced0be"
+        "44d4ff4e-966e-40c6-8251-cc51ebced0be",
+        "7203872b-ecce-4521-9ea9-dc420f39cb1e"
       ],
       "settings": {
         "title": "<strong>Marcas<\/strong>",

@@ -99,7 +99,7 @@
         "title": "<strong>Parlantes<\/strong>",
         "heading_size": "h2",
         "description": "<p>Lleva la música a todos lados con nuestros parlantes portátiles.<\/p>",
-        "show_description": true,
+        "show_description": false,
         "description_style": "body",
         "collection": "bocinas",
         "products_to_show": 4,
@@ -142,9 +142,9 @@
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": true,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }

@@ -121,6 +121,46 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_QRtPaM": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_KUMcaQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "almacenamiento"
+          }
+        },
+        "featured_collection_3xUNEm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "audifonos"
+          }
+        },
+        "featured_collection_tJm9BG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bocinas"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_KUMcaQ",
+        "featured_collection_3xUNEm",
+        "featured_collection_tJm9BG"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "560845a8-8752-401d-9944-c0af24f6546e": {
       "type": "featured-collection",
       "settings": {
@@ -285,6 +325,7 @@
   "order": [
     "41fa1594-5079-4867-8335-899a0728bf55",
     "featured_collection",
+    "collection_list_QRtPaM",
     "560845a8-8752-401d-9944-c0af24f6546e",
     "3214f90a-e8fb-440b-aaab-34bf5a0de09d",
     "4104e7c2-ff71-4355-b81b-f966b80b3d7b",

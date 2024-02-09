@@ -121,41 +121,29 @@
         "padding_bottom": 36
       }
     },
-    "collection_list_QRtPaM": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_KUMcaQ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "almacenamiento"
-          }
-        },
-        "featured_collection_3xUNEm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "audifonos"
-          }
-        },
-        "featured_collection_tJm9BG": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bocinas"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_KUMcaQ",
-        "featured_collection_3xUNEm",
-        "featured_collection_tJm9BG"
-      ],
+    "featured_collection_G9G738": {
+      "type": "featured-collection",
       "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
+        "title": "<strong>Maxell<\/strong>",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "audifonos",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -325,7 +313,7 @@
   "order": [
     "41fa1594-5079-4867-8335-899a0728bf55",
     "featured_collection",
-    "collection_list_QRtPaM",
+    "featured_collection_G9G738",
     "560845a8-8752-401d-9944-c0af24f6546e",
     "3214f90a-e8fb-440b-aaab-34bf5a0de09d",
     "4104e7c2-ff71-4355-b81b-f966b80b3d7b",

@@ -329,12 +329,19 @@
           "settings": {
             "collection": "audifonos"
           }
+        },
+        "featured_collection_6FjcKe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cargadores"
+          }
         }
       },
       "block_order": [
         "featured_collection_3cXKkJ",
         "featured_collection_EgWQT7",
-        "featured_collection_7WrWma"
+        "featured_collection_7WrWma",
+        "featured_collection_6FjcKe"
       ],
       "settings": {
         "title": "Colecciones",

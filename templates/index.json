@@ -177,76 +177,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_product_zHKUM6": {
-      "type": "featured-product",
-      "blocks": {
-        "text_RG9QRX": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_b3bcKG": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_pP3tG9": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_byEhYa": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector_MCf4Md": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_ByzeNb": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "share_mxcYar": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_RG9QRX",
-        "title_b3bcKG",
-        "price_pP3tG9",
-        "variant_picker_byEhYa",
-        "quantity_selector_MCf4Md",
-        "buy_buttons_ByzeNb",
-        "share_mxcYar"
-      ],
-      "disabled": true,
-      "settings": {
-        "product": "audifonos-deportivos-inalambricos-maxell-bluetooth-tws-halo-con-iluminacion",
-        "color_scheme": "",
-        "secondary_background": true,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "hover",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "3214f90a-e8fb-440b-aaab-34bf5a0de09d": {
       "type": "multirow",
       "blocks": {
@@ -378,6 +308,46 @@
         "top_margin": 20,
         "bottom_margin": 20
       }
+    },
+    "collection_list_ewqXTi": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_3cXKkJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "memorias"
+          }
+        },
+        "featured_collection_EgWQT7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "audifonos-bluetooth"
+          }
+        },
+        "featured_collection_7WrWma": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_3cXKkJ",
+        "featured_collection_EgWQT7",
+        "featured_collection_7WrWma"
+      ],
+      "settings": {
+        "title": "Colecciones",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -385,9 +355,9 @@
     "featured_collection",
     "560845a8-8752-401d-9944-c0af24f6546e",
     "featured_collection_dr8bCn",
-    "featured_product_zHKUM6",
     "3214f90a-e8fb-440b-aaab-34bf5a0de09d",
     "4104e7c2-ff71-4355-b81b-f966b80b3d7b",
-    "custom_search"
+    "custom_search",
+    "collection_list_ewqXTi"
   ]
 }

@@ -177,6 +177,60 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_ewqXTi": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_3cXKkJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "memorias"
+          }
+        },
+        "featured_collection_EgWQT7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "energia"
+          }
+        },
+        "featured_collection_7WrWma": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "audifonos"
+          }
+        },
+        "featured_collection_6FjcKe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cargadores"
+          }
+        },
+        "featured_collection_QDqYhj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "proyectores"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_3cXKkJ",
+        "featured_collection_EgWQT7",
+        "featured_collection_7WrWma",
+        "featured_collection_6FjcKe",
+        "featured_collection_QDqYhj"
+      ],
+      "settings": {
+        "title": "Colecciones",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "3214f90a-e8fb-440b-aaab-34bf5a0de09d": {
       "type": "multirow",
       "blocks": {
@@ -243,60 +297,6 @@
         "section_color_scheme": "background-1",
         "row_color_scheme": "background-2",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collection_list_ewqXTi": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_3cXKkJ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "memorias"
-          }
-        },
-        "featured_collection_EgWQT7": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "energia"
-          }
-        },
-        "featured_collection_7WrWma": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "audifonos"
-          }
-        },
-        "featured_collection_6FjcKe": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cargadores"
-          }
-        },
-        "featured_collection_QDqYhj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "proyectores"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_3cXKkJ",
-        "featured_collection_EgWQT7",
-        "featured_collection_7WrWma",
-        "featured_collection_6FjcKe",
-        "featured_collection_QDqYhj"
-      ],
-      "settings": {
-        "title": "Colecciones",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -369,8 +369,8 @@
     "featured_collection",
     "560845a8-8752-401d-9944-c0af24f6546e",
     "featured_collection_dr8bCn",
-    "3214f90a-e8fb-440b-aaab-34bf5a0de09d",
     "collection_list_ewqXTi",
+    "3214f90a-e8fb-440b-aaab-34bf5a0de09d",
     "4104e7c2-ff71-4355-b81b-f966b80b3d7b",
     "custom_search"
   ]

@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -18,11 +27,20 @@
             "heading": "<strong>Información<\/strong>",
             "menu": "footer"
           }
+        },
+        "image_HXetyB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_1_c4db9b1b-b99a-49f4-87ca-87e51e986dc4.jpg",
+            "image_width": 500,
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "cbb6d662-cd86-4758-b0ae-3a32242968bd",
-        "8500d433-81d0-46c2-92e8-a0f71cce1dd0"
+        "8500d433-81d0-46c2-92e8-a0f71cce1dd0",
+        "image_HXetyB"
       ],
       "settings": {
         "color_scheme": "background-1",

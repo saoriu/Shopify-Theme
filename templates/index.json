@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "41fa1594-5079-4867-8335-899a0728bf55": {
@@ -6,7 +15,7 @@
         "d69ad174-f7c6-4dee-ade5-9d1b2ac10046": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Maxell.jpg",
+            "image": "shopify:\/\/shop_images\/BANER_MAXELL.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
